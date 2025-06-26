@@ -1,0 +1,4 @@
+[build-menu]
+EX_00_LB=_Executar
+EX_00_CM=./"%e"
+EX_00_WD=
